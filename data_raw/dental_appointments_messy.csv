@@ -1,0 +1,34 @@
+Patient ID,Patient Name,DOB,Appointment Date,Treatment Code,Treatment Description,Provider,Cost,Insurance Paid,Patient Paid,Status
+PT001,Jessica Williams,05/12/1985,1/15/2024,D0120,Periodic Oral Evaluation,Dr. Smith,$75.00,$60.00,$15.00,Completed
+PT001,Jessica Williams,5/12/1985,2/20/2024,D1110,Prophylaxis - Adult,Dr. Smith,125,100.00,$25,Completed
+PT002,Michael Johnson,11-23-1978,01/08/2024,D0150,Comprehensive Oral Evaluation,Dr. Chen,$125.00,$100.00,$25.00,Completed
+PT002,Mike Johnson,11/23/1978,1/22/2024,D2391,Resin-based composite - one surface,Dr. Chen,"$185.00",148,$37.00,Completed
+PT003,Sarah Martinez,03/30/1992,1/10/2024,D0120,Periodic Oral Eval,Dr. Smith,75.00,0,$75.00,Completed
+PT003,S. Martinez,3/30/1992,02/14/2024,D4341,Periodontal scaling - per quadrant,Dr. Rodriguez,$275.00,$220.00,55,Completed
+PT004,Robert Chen,,01/05/2024,D0210,Intraoral - complete series,Dr. Smith,$150.00,$120.00,$30.00,Completed
+PT004,Robert Chen,07/19/1980,1/19/2024,D2740,Crown - porcelain/ceramic,Dr. Chen,"$1,200.00",960.00,$240,Completed
+PT005,Emily Davis,12/08/1995,1/12/2024,D0120,Periodic Oral Evaluation,Dr. Rodriguez,$75.00,$0.00,$75.00,No Show
+PT005,Emily Davis,12/8/1995,2/16/2024,D0120,Periodic Oral Evaluation,Dr. Rodriguez,75,,75.00,Completed
+PT006,David Kim,9/15/1972,01/25/2024,D1110,Prophylaxis - adult,Dr. Smith,$125.00,$100.00,$25.00,Completed
+PT006,David Kim,09/15/1972,1/25/2024,D0274,Bitewings - four films,Dr. Smith,80.00,64.00,16,Completed
+PT007,Jennifer Lee,06-05-1988,2/1/2024,D0150,Comprehensive Oral Evaluation,Dr. Chen,$125.00,$0.00,$125.00,Completed
+PT007,Jenn Lee,6/5/1988,2/15/2024,D2391,Resin composite - one surface,Dr. Chen,185.00,NULL,185,Pending
+PT008,Thomas Brown,04/22/1969,01/18/2024,D0120,Periodic Oral Eval,Dr. Rodriguez,$75.00,$60.00,$15.00,Completed
+PT008,Tom Brown,4/22/1969,3/1/2024,D7140,Extraction - erupted tooth,Dr. Rodriguez,"$225.00",180,45.00,Completed
+PT009,Maria Garcia,10/11/1983,1/29/2024,D1110,Prophylaxis - Adult,Dr. Smith,$125.00,$100.00,$25.00,Completed
+PT009,Maria Garcia,10/11/1983,2/29/2024,D0120,Periodic Oral Evaluation,Dr. Smith,75,60,15,Cancelled
+PT010,James Wilson,08-17-1991,2/5/2024,D2392,Resin composite - two surfaces,Dr. Chen,$215.00,$172.00,$43.00,Completed
+PT010,J. Wilson,8/17/1991,3/10/2024,D1110,Prophylaxis - adult,Dr. Chen,125.00,100,25,Completed
+PT011,Linda Anderson,02/28/1976,01/11/2024,D0120,Periodic Oral Evaluation,Dr. Smith,$75.00,$60.00,$15.00,Completed
+PT011,Linda Anderson,2/28/1976,,D4910,Periodontal maintenance,Dr. Smith,"$175.00",140.00,35,Completed
+PT012,Christopher Lee,07/03/1987,1/16/2024,D0150,Comprehensive Oral Eval,Dr. Rodriguez,$125.00,$100.00,$25.00,Completed
+PT012,Chris Lee,7/3/1987,2/8/2024,D2750,Crown - porcelain fused to high noble metal,Dr. Rodriguez,"$1,350.00",1080,270.00,Completed
+PT013,Patricia Moore,11/30/1994,01/23/2024,D1110,Prophylaxis - Adult,Dr. Chen,$125.00,$0.00,$125.00,Completed
+PT013,Patty Moore,11/30/1994,2/23/2024,D0120,Periodic Oral Evaluation,Dr. Chen,75.00,,75,No Show
+PT014,Daniel Taylor,05-09-1981,2/12/2024,D0210,Intraoral - complete series,Dr. Smith,$150.00,$120.00,$30.00,Completed
+PT014,Daniel Taylor,5/9/1981,2/26/2024,D2393,Resin composite - three surfaces,Dr. Smith,245,196.00,49,Completed
+PT001,Jessica Williams,05/12/1985,3/18/2024,D0120,Periodic Oral Evaluation,Dr. Smith,$75.00,$60.00,$15.00,Completed
+PT015,Amanda White,03/14/1979,1/30/2024,D1110,Prophylaxis - adult,Dr. Rodriguez,$125.00,$100.00,$25.00,Completed
+PT015,Amanda White,3/14/1979,2/27/2024,D0274,Bitewings - 4 films,Dr. Rodriguez,80,64.00,$16.00,Completed
+PT016,Kevin Martinez,12-21-1986,2/3/2024,D2740,Crown - porcelain/ceramic,Dr. Chen,"$1,200.00",,1200.00,Pending Payment
+PT016,K Martinez,12/21/1986,3/5/2024,D0120,Periodic Oral Evaluation,Dr. Chen,75.00,0.00,75,Completed

@@ -1,0 +1,31 @@
+Ticket ID,Property,Unit,Issue Reported,Date Reported,Category,Assigned To,Cost,Date Completed,Status
+MNT001,PROP001,12A,Leaking faucet in kitchen,1/5/2024,Plumbing,Mike's Plumbing,$150.00,1/7/2024,Closed
+MNT002,PROP002,5B,AC not working,01/10/2024,HVAC,Quality HVAC,"$450.00",1/15/2024,Closed
+MNT003,PROP003,23C,broken window,1/12/2024,General Maintenance,HandyMan Services,275,1/20/2024,Closed
+MNT004,PROP001,12a,Garbage disposal broken,01/15/2024,Plumbing,Mike's Plumbing,$225.00,,Open
+MNT005,PROP004,8D,Light fixture not working in bedroom,1/18/2024,Electrical,Electric Pro,85.00,1/19/2024,Closed
+MNT006,PROP005,17A,Toilet running constantly,1/20/2024,plumbing,Mikes Plumbing,"$175.00",1/22/2024,closed
+MNT007,PROP002,5B,Heating not working,02/01/2024,HVAC,Quality hvac,525,2/3/2024,Closed
+MNT008,PROP006,31B,Cabinet door broken,2/5/2024,General Maintenance,Handyman Services,$95.00,2/8/2024,Closed
+MNT009,PROP007,4C,Water heater leaking,02/08/2024,Plumbing,Mike's Plumbing,"$850.00",2/12/2024,Closed
+MNT010,PROP003,23c,Dishwasher not draining,2/10/2024,Appliance,ApplianceFix,195.00,,In Progress
+MNT011,PROP008,19D,smoke detector beeping,02/12/2024,Safety,,,2/12/2024,Closed
+MNT012,PROP009,11A,Dryer not heating,2/15/2024,Appliance,Appliance Fix,$325.00,2/20/2024,Closed
+MNT013,PROP010,26B,Refrigerator not cooling,02/18/2024,appliance,ApplianceFix,"$275.00",2/22/2024,Closed
+MNT014,PROP001,12A,Pest control needed - ants,2/20/2024,Pest Control,Bug Busters,125,2/21/2024,Closed
+MNT015,PROP011,7E,Ceiling fan not working,02/25/2024,Electrical,Electric Pro,$115.00,2/27/2024,closed
+MNT016,PROP012,14F,Shower drain clogged,2/28/2024,Plumbing,Mike's Plumbing,185.00,3/2/2024,Closed
+MNT017,PROP002,5B,thermostat not responding,03/01/2024,HVAC,Quality HVAC,"$165.00",,Open
+MNT018,PROP004,8D,Washing machine leaking,3/3/2024,Appliance,Appliance Fix,295,3/8/2024,Closed
+MNT019,PROP013,9F,Door lock broken,03/05/2024,general maintenance,Handyman Services,$145.00,3/7/2024,Closed
+MNT020,PROP005,17a,Kitchen sink clogged,3/8/2024,Plumbing,Mikes Plumbing,135.00,,In progress
+MNT021,PROP014,20G,Outlet not working,03/10/2024,Electrical,Electric pro,"$95.00",3/12/2024,Closed
+MNT022,PROP006,31B,Bathroom exhaust fan loud,3/12/2024,General Maintenance,HandyMan Services,75,3/15/2024,closed
+MNT023,PROP007,4c,Water pressure low,03/15/2024,Plumbing,Mike's Plumbing,$225.00,3/18/2024,Closed
+MNT024,PROP015,2H,heating issue - cold spots,3/18/2024,HVAC,Quality HVAC,385.00,3/22/2024,Closed
+MNT025,PROP008,19D,Garage door opener broken,03/20/2024,General Maintenance,Handyman Services,"$195.00",,Open
+MNT026,PROP009,11a,Tile grout cracking in bathroom,3/22/2024,general maintenance,HandyMan Services,165,3/28/2024,Closed
+MNT027,PROP010,26B,Window screen torn,03/25/2024,General Maintenance,Handyman Services,$55.00,3/27/2024,Closed
+MNT028,PROP001,12A,Closet door off track,3/27/2024,General Maintenance,HandyMan Services,85.00,3/29/2024,closed
+MNT029,PROP011,7E,Oven not heating properly,03/28/2024,Appliance,ApplianceFix,"$245.00",,In Progress
+MNT030,PROP003,23C,Paint peeling in living room,3/30/2024,General Maintenance,,,Open
