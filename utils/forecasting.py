@@ -32,7 +32,9 @@ def train_revenue_forecast_model(historical_revenue):
         weekly_seasonality=True,      # Capture day-of-week patterns
         daily_seasonality=False,      # Not needed for daily aggregates
         seasonality_mode='multiplicative',  # Better for revenue (% changes)
-        changepoint_prior_scale=0.05  # Conservative (less overfitting)
+        changepoint_prior_scale=0.05,  # Conservative (less overfitting)
+        seasonality_prior_scale=10.0,  # Add this - controls seasonality strength
+        interval_width=0.80
     )
 
     model.fit(historical_revenue)
